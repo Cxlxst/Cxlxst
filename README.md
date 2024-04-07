@@ -24,12 +24,13 @@ Here you can find some projects I made during my schooling
 ---
 
 ### 👩‍💻 Entering in code mode
-![music](https://github.com/Cxlxst/Cxlxst/assets/98654036/27a51f53-7b91-4047-8b94-632764f767b3)
+![giphy](https://github.com/Cxlxst/Cxlxst/assets/98654036/6fb7f298-8371-4ca1-a56c-5b7bff19239c)
+
 
 
 <!-- **🔧 Technical stack** -->
 
-### ⚡ Recent activity
+**⚡ Recent activity**
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#19](https://github.com/Cxlxst/apiTracker/pull/19) in [Cxlxst/apiTracker](https://github.com/Cxlxst/apiTracker)
 2. 🎉 Merged PR [#17](https://github.com/Cxlxst/apiTracker/pull/17) in [Cxlxst/apiTracker](https://github.com/Cxlxst/apiTracker)
