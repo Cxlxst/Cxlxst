@@ -20,6 +20,9 @@ Here you can find some projects I made during my schooling
 
 ### ⚡ Recent activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#19](https://github.com/Cxlxst/apiTracker/pull/19) in [Cxlxst/apiTracker](https://github.com/Cxlxst/apiTracker)
+2. 🎉 Merged PR [#17](https://github.com/Cxlxst/apiTracker/pull/17) in [Cxlxst/apiTracker](https://github.com/Cxlxst/apiTracker)
+3. 💪 Opened PR [#17](https://github.com/Cxlxst/apiTracker/pull/17) in [Cxlxst/apiTracker](https://github.com/Cxlxst/apiTracker)
 <!--END_SECTION:activity-->
 
 
