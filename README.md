@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&weight=600&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=false&width=1120&lines=C%C3%A9leste)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=600&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=false&width=1120&lines=C%C3%A9leste)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=700&color=000000&center=true&vCenter=true&random=false&width=1120&lines=Student;Full+stack+developer;Web+designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=5000&pause=700&color=000000&center=true&vCenter=true&random=false&width=1120&lines=Student;Full+stack+developer;Web+designer)](https://git.io/typing-svg)
 
 ### 🤙🏻 A little about me
 I’m 21 years old and a music lover 🤩
