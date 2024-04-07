@@ -8,6 +8,17 @@ I’m 21 years old and a music lover 🤩
 Here you can find some projects I made during my schooling
 
 <!--START_SECTION:early_night-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                47 commits          ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.46 % 
+🌆 Daytime                111 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   50.68 % 
+🌃 Evening                51 commits          ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.29 % 
+🌙 Night                  10 commits          ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.57 % 
+```
+
+
+
 <!--END_SECTION:early_night-->
 
 ---
