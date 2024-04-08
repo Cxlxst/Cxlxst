@@ -41,13 +41,13 @@ Here you can find some projects I made during my schooling
 <!--START_SECTION:waka_data-->
 **🐱 My GitHub Data** 
 
-> 📦 99.8 kB Used in GitHub's Storage 
+> 📦 99.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 
 <!--END_SECTION:waka_data-->
