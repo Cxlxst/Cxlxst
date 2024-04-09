@@ -47,7 +47,7 @@ Here you can find some projects I made during my schooling
  > 
 > 📜 5 Public Repositories 
  > 
-> 🔑 4 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
 
 <!--END_SECTION:waka_data-->
