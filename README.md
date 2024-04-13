@@ -41,7 +41,7 @@ Here you can find some projects I made during my schooling
 <!--START_SECTION:waka_data-->
 **🐱 My GitHub Data** 
 
-> 📦 99.5 kB Used in GitHub's Storage 
+> 📦 99.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
