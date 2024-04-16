@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=5000&pause=700&color=000000&center=true&vCenter=true&random=false&width=1120&lines=Student;Full+stack+developer;Web+designer)](https://git.io/typing-svg)
 
-### 🤙🏻 A little about me
-I’m 21 years old and a music lover 🤩
-
-Here you can find some projects I made during my schooling
+<h3>🤙 A little about me</h3>
+<p>I’m 21 years old and a music lover :star_struck:</p>
+<p>Here you can find some projects I made during my schooling</p>
+</br></br>
 
 <!--START_SECTION:early_night-->
 **I'm an Early 🐤** 
@@ -23,20 +23,18 @@ Here you can find some projects I made during my schooling
 
 ---
 
-### 👩‍💻 Entering in code mode
-![giphy](https://github.com/Cxlxst/Cxlxst/assets/98654036/6fb7f298-8371-4ca1-a56c-5b7bff19239c)
+<h3>👩‍💻 Entering in code mode</h3>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU5Nzc2NDBub2E0M2MwOXRwZXd6dWdjMmR5d2gyd2Z0OW92ZnRtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UzPFt8mP3vHDkPYZhL/giphy.gif"/>
+</br>
 
 
+<!-- <h3>🔧 Technical stack</h3> -->
 
-<!-- **🔧 Technical stack** -->
+<b>⚡ Recent activity</b>
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
-**⚡ Recent activity**
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/Cxlxst/apiTracker/pull/19) in [Cxlxst/apiTracker](https://github.com/Cxlxst/apiTracker)
-2. 🎉 Merged PR [#17](https://github.com/Cxlxst/apiTracker/pull/17) in [Cxlxst/apiTracker](https://github.com/Cxlxst/apiTracker)
-3. 💪 Opened PR [#17](https://github.com/Cxlxst/apiTracker/pull/17) in [Cxlxst/apiTracker](https://github.com/Cxlxst/apiTracker)
-<!--END_SECTION:activity-->
-
+</br>
 
 <!--START_SECTION:waka_data-->
 **🐱 My GitHub Data** 
