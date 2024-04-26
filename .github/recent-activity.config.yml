@@ -14,8 +14,8 @@ settings:
   #commit_name: "readme-bot"
   #commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
   line_prefix: "> "
-  #ignored_repos:
-    #- username/repo
+  ignored_repos:
+    - Cxlxst/Cxlxst
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   push: "✈️ Pushed {AMOUNT} commit(s) to {REPO}"
