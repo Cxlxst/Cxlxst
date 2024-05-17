@@ -33,10 +33,10 @@
 <b>⚡ Recent activity</b>
 <!--RECENT_ACTIVITY:start-->
 > ✈️ Pushed 2 commit(s) to [Cxlxst/triumpha](https://github.com/Cxlxst/triumpha)<br>
-> ✈️ Pushed 1 commit(s) to [Cxlxst/triumpha](https://github.com/Cxlxst/triumpha)<br>
-> ✈️ Pushed 1 commit(s) to [Cxlxst/triumpha](https://github.com/Cxlxst/triumpha)<br>
-> ✈️ Pushed 1 commit(s) to [Cxlxst/triumpha](https://github.com/Cxlxst/triumpha)<br>
-> ✈️ Pushed 11 commit(s) to [Cxlxst/triumpha](https://github.com/Cxlxst/triumpha)<br>
+> ✈️ Pushed 5 commit(s) to [Cxlxst/triumpha](https://github.com/Cxlxst/triumpha)<br>
+> ✈️ Pushed 3 commit(s) to [Cxlxst/triumpha](https://github.com/Cxlxst/triumpha)<br>
+> 🎉 Merged PR [#1](https://github.com/Cxlxst/triumpha/pull/1) in [Cxlxst/triumpha](https://github.com/Cxlxst/triumpha)<br>
+> ✈️ Pushed 2 commit(s) to [Cxlxst/triumpha](https://github.com/Cxlxst/triumpha)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </br>
