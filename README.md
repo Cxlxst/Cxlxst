@@ -32,7 +32,6 @@
 
 <b>⚡ Recent activity</b>
 <!--RECENT_ACTIVITY:start-->
-> ✈️ Pushed 1 commit(s) to [Cxlxst/noteBuster](https://github.com/Cxlxst/noteBuster)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </br>
