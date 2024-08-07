@@ -1,6 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=600&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=false&width=1120&lines=C%C3%A9leste)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1120&lines=C%C3%A9leste">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=1120&lines=C%C3%A9leste"/>
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=5000&pause=700&color=000000&center=true&vCenter=true&random=false&width=1120&lines=Student;Full+stack+developer;Web+designer)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=700&color=FFFFFF&center=true&vCenter=true&width=1120&lines=Student;Full+stack+developer;Web+designer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=000000&center=true&vCenter=true&width=1120&lines=Student;Full+stack+developer;Web+designer"/>
+</picture>
+
 
 <h3>🤙 A little about me</h3>
 <p>I’m 21 years old and a music lover :star_struck:</p>
