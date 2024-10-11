@@ -54,7 +54,7 @@
  > 
 > 📜 7 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
 
 <!--END_SECTION:waka_data-->
