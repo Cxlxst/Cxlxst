@@ -39,11 +39,11 @@
 
 <b>⚡ Recent activity</b>
 <!--RECENT_ACTIVITY:start-->
+> ✈️ Pushed 8 commit(s) to [Cxlxst/proLinker](https://github.com/Cxlxst/proLinker)<br>
 > ✈️ Pushed 1 commit(s) to [Cxlxst/proLinker](https://github.com/Cxlxst/proLinker)<br>
 > ✈️ Pushed 2 commit(s) to [Cxlxst/proLinker](https://github.com/Cxlxst/proLinker)<br>
 > ✈️ Pushed 1 commit(s) to [Cxlxst/proLinker](https://github.com/Cxlxst/proLinker)<br>
 > ✈️ Pushed 18 commit(s) to [Cxlxst/proLinker](https://github.com/Cxlxst/proLinker)<br>
-> ✈️ Pushed 8 commit(s) to [Cxlxst/proLinker](https://github.com/Cxlxst/proLinker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </br>
